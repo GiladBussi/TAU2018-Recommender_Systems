@@ -1,0 +1,1000 @@
+
+
+#5#
+
+found file similarity_matrix_by_cosine_similarity.csv
+The result MAE using: cosine_similarity with k Neighbours number of 10 = 3.307249997545796
+The result MAE using: cosine_similarity with k Neighbours number of 20 = 3.2883908542826545
+The result MAE using: cosine_similarity with k Neighbours number of 50 = 3.274750867950121
+The result MAE using: cosine_similarity with k Neighbours number of 100 = 3.2702755400752737
+
+
+found file similarity_matrix_by_adjusted_cosine_similarity.csv
+The result MAE using: adjusted_cosine_similarity with k Neighbours number of 10 = 3.307964803589016
+The result MAE using: adjusted_cosine_similarity with k Neighbours number of 20 = 3.2896094900544175
+The result MAE using: adjusted_cosine_similarity with k Neighbours number of 50 = 3.2763106376586797
+The result MAE using: adjusted_cosine_similarity with k Neighbours number of 100 = 3.2709438603506467
+
+found file similarity_matrix_by_jaccard_coefficient.csv
+The result MAE using: jaccard_coefficient with k Neighbours number of 10 = 3.311927356928509
+The result MAE using: jaccard_coefficient with k Neighbours number of 20 = 3.2945631864945883
+The result MAE using: jaccard_coefficient with k Neighbours number of 50 = 3.27962518490281
+The result MAE using: jaccard_coefficient with k Neighbours number of 100 = 3.2720862415397725
+
+
+found file similarity_matrix_by_dice_coefficient.csv
+The result MAE using: dice_coefficient with k Neighbours number of 10 = 3.2892453721384323
+The result MAE using: dice_coefficient with k Neighbours number of 20 = 3.2778968864264395
+The result MAE using: dice_coefficient with k Neighbours number of 50 = 3.2688994495525416
+The result MAE using: dice_coefficient with k Neighbours number of 100 = 3.264162246431683
+
+
+
+
+
+#6#
+
+  item_id    rating
+0      10  1.000000
+1      14  1.000000
+2      17  1.000000
+3      86  0.317830
+4     235  0.327710
+5     423  0.392823
+
+
+#7.a#
+
+The result AUC result for user id 1 using: cosine_similarity with k as 5 and h as 5 is = 0.6
+The result AUC result for user id 2 using: cosine_similarity with k as 5 and h as 5 is = 0.018518518518518545
+The result AUC result for user id 3 using: cosine_similarity with k as 5 and h as 5 is = 0.8541666666666666
+No relevant prediction for user id #4
+The result AUC result for user id 5 using: cosine_similarity with k as 5 and h as 5 is = 0.75
+The result AUC result for user id 6 using: cosine_similarity with k as 5 and h as 5 is = 0.8333333333333334
+The result AUC result for user id 7 using: cosine_similarity with k as 5 and h as 5 is = 0.47619047619047616
+The result AUC result for user id 8 using: cosine_similarity with k as 5 and h as 5 is = 0.8
+The result AUC result for user id 9 using: cosine_similarity with k as 5 and h as 5 is = 0.7407407407407407
+The result AUC result for user id 10 using: cosine_similarity with k as 5 and h as 5 is = 0.8333333333333334
+The result AUC result for user id 11 using: cosine_similarity with k as 5 and h as 5 is = 0.09090909090909094
+No relevant prediction for user id #12
+The result AUC result for user id 13 using: cosine_similarity with k as 5 and h as 5 is = 1.0
+The result AUC result for user id 14 using: cosine_similarity with k as 5 and h as 5 is = 0.8461538461538461
+The result AUC result for user id 15 using: cosine_similarity with k as 5 and h as 5 is = 0.6428571428571428
+No relevant prediction for user id #16
+The result AUC result for user id 17 using: cosine_similarity with k as 5 and h as 5 is = 0.5833333333333334
+The result AUC result for user id 18 using: cosine_similarity with k as 5 and h as 5 is = 0.2954545454545454
+No relevant prediction for user id #19
+No relevant prediction for user id #20
+The result AUC result for user id 21 using: cosine_similarity with k as 5 and h as 5 is = 0.6086956521739131
+The result AUC result for user id 22 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+The result AUC result for user id 23 using: cosine_similarity with k as 5 and h as 5 is = 0.75
+The result AUC result for user id 24 using: cosine_similarity with k as 5 and h as 5 is = 0.8333333333333334
+The result AUC result for user id 25 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+The result AUC result for user id 26 using: cosine_similarity with k as 5 and h as 5 is = 0.5
+No relevant prediction for user id #27
+No relevant prediction for user id #28
+The result AUC result for user id 29 using: cosine_similarity with k as 5 and h as 5 is = 0.8777777777777778
+No relevant prediction for user id #30
+No relevant prediction for user id #31
+The result AUC result for user id 32 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+No relevant prediction for user id #33
+The result AUC result for user id 34 using: cosine_similarity with k as 5 and h as 5 is = 0.30405405405405406
+No relevant prediction for user id #35
+The result AUC result for user id 36 using: cosine_similarity with k as 5 and h as 5 is = 0.8461538461538461
+No relevant prediction for user id #37
+The result AUC result for user id 38 using: cosine_similarity with k as 5 and h as 5 is = 0.8888888888888888
+No relevant prediction for user id #39
+The result AUC result for user id 40 using: cosine_similarity with k as 5 and h as 5 is = 0.8541666666666666
+The result AUC result for user id 41 using: cosine_similarity with k as 5 and h as 5 is = 0.625
+The result AUC result for user id 42 using: cosine_similarity with k as 5 and h as 5 is = 0.11111111111111108
+The result AUC result for user id 43 using: cosine_similarity with k as 5 and h as 5 is = 0.7
+The result AUC result for user id 44 using: cosine_similarity with k as 5 and h as 5 is = 0.47222222222222227
+No relevant prediction for user id #45
+The result AUC result for user id 46 using: cosine_similarity with k as 5 and h as 5 is = 0.6153846153846154
+The result AUC result for user id 47 using: cosine_similarity with k as 5 and h as 5 is = 0.875
+The result AUC result for user id 48 using: cosine_similarity with k as 5 and h as 5 is = 0.8571428571428572
+No relevant prediction for user id #49
+The result AUC result for user id 50 using: cosine_similarity with k as 5 and h as 5 is = 0.6764705882352942
+No relevant prediction for user id #51
+The result AUC result for user id 52 using: cosine_similarity with k as 5 and h as 5 is = 0.3846153846153846
+No relevant prediction for user id #53
+The result AUC result for user id 54 using: cosine_similarity with k as 5 and h as 5 is = 0.6296296296296295
+No relevant prediction for user id #55
+The result AUC result for user id 56 using: cosine_similarity with k as 5 and h as 5 is = 0.9166666666666666
+The result AUC result for user id 57 using: cosine_similarity with k as 5 and h as 5 is = 0.2777777777777778
+The result AUC result for user id 58 using: cosine_similarity with k as 5 and h as 5 is = 0.8333333333333334
+The result AUC result for user id 59 using: cosine_similarity with k as 5 and h as 5 is = 0.5
+The result AUC result for user id 60 using: cosine_similarity with k as 5 and h as 5 is = 0.7578125
+No relevant prediction for user id #61
+The result AUC result for user id 62 using: cosine_similarity with k as 5 and h as 5 is = 0.6
+No relevant prediction for user id #63
+The result AUC result for user id 64 using: cosine_similarity with k as 5 and h as 5 is = 0.4375
+The result AUC result for user id 65 using: cosine_similarity with k as 5 and h as 5 is = 0.5555555555555556
+No relevant prediction for user id #66
+The result AUC result for user id 67 using: cosine_similarity with k as 5 and h as 5 is = 0.4444444444444444
+The result AUC result for user id 68 using: cosine_similarity with k as 5 and h as 5 is = 0.29629629629629634
+No relevant prediction for user id #69
+The result AUC result for user id 70 using: cosine_similarity with k as 5 and h as 5 is = 0.23611111111111113
+No relevant prediction for user id #71
+No relevant prediction for user id #72
+The result AUC result for user id 73 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+No relevant prediction for user id #74
+No relevant prediction for user id #75
+No relevant prediction for user id #76
+The result AUC result for user id 77 using: cosine_similarity with k as 5 and h as 5 is = 0.7777777777777778
+No relevant prediction for user id #78
+No relevant prediction for user id #79
+The result AUC result for user id 80 using: cosine_similarity with k as 5 and h as 5 is = 0.8461538461538461
+The result AUC result for user id 81 using: cosine_similarity with k as 5 and h as 5 is = 0.5108695652173914
+No relevant prediction for user id #82
+No relevant prediction for user id #83
+The result AUC result for user id 84 using: cosine_similarity with k as 5 and h as 5 is = 0.02941176470588236
+The result AUC result for user id 85 using: cosine_similarity with k as 5 and h as 5 is = 1.0
+No relevant prediction for user id #86
+The result AUC result for user id 87 using: cosine_similarity with k as 5 and h as 5 is = 0.921875
+No relevant prediction for user id #88
+The result AUC result for user id 89 using: cosine_similarity with k as 5 and h as 5 is = 0.8
+The result AUC result for user id 90 using: cosine_similarity with k as 5 and h as 5 is = 0.42592592592592593
+The result AUC result for user id 91 using: cosine_similarity with k as 5 and h as 5 is = 0.5
+No relevant prediction for user id #92
+The result AUC result for user id 93 using: cosine_similarity with k as 5 and h as 5 is = 0.4285714285714286
+The result AUC result for user id 94 using: cosine_similarity with k as 5 and h as 5 is = 0.3333333333333333
+The result AUC result for user id 95 using: cosine_similarity with k as 5 and h as 5 is = 0.16666666666666663
+The result AUC result for user id 96 using: cosine_similarity with k as 5 and h as 5 is = 0.5
+The result AUC result for user id 97 using: cosine_similarity with k as 5 and h as 5 is = 0.8333333333333334
+No relevant prediction for user id #98
+The result AUC result for user id 99 using: cosine_similarity with k as 5 and h as 5 is = 0.9074074074074074
+The result AUC result for user id 100 using: cosine_similarity with k as 5 and h as 5 is = 0.8928571428571428
+The result AUC result for user id 101 using: cosine_similarity with k as 5 and h as 5 is = 0.7307692307692307
+The result AUC result for user id 102 using: cosine_similarity with k as 5 and h as 5 is = 0.9285714285714286
+The result AUC result for user id 103 using: cosine_similarity with k as 5 and h as 5 is = 0.6428571428571428
+The result AUC result for user id 104 using: cosine_similarity with k as 5 and h as 5 is = 0.08333333333333337
+No relevant prediction for user id #105
+The result AUC result for user id 106 using: cosine_similarity with k as 5 and h as 5 is = 0.0357142857142857
+The result AUC result for user id 107 using: cosine_similarity with k as 5 and h as 5 is = 0.6944444444444444
+The result AUC result for user id 108 using: cosine_similarity with k as 5 and h as 5 is = 0.8571428571428572
+The result AUC result for user id 109 using: cosine_similarity with k as 5 and h as 5 is = 0.4035087719298246
+The result AUC result for user id 110 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+No relevant prediction for user id #111
+The result AUC result for user id 112 using: cosine_similarity with k as 5 and h as 5 is = 0.9047619047619048
+No relevant prediction for user id #113
+No relevant prediction for user id #114
+The result AUC result for user id 115 using: cosine_similarity with k as 5 and h as 5 is = 0.5714285714285714
+The result AUC result for user id 116 using: cosine_similarity with k as 5 and h as 5 is = 0.1428571428571429
+The result AUC result for user id 117 using: cosine_similarity with k as 5 and h as 5 is = 0.33333333333333337
+No relevant prediction for user id #118
+The result AUC result for user id 119 using: cosine_similarity with k as 5 and h as 5 is = 0.7777777777777778
+No relevant prediction for user id #120
+The result AUC result for user id 121 using: cosine_similarity with k as 5 and h as 5 is = 0.8333333333333334
+No relevant prediction for user id #122
+No relevant prediction for user id #123
+No relevant prediction for user id #124
+The result AUC result for user id 125 using: cosine_similarity with k as 5 and h as 5 is = 0.6333333333333333
+The result AUC result for user id 126 using: cosine_similarity with k as 5 and h as 5 is = 0.41200000000000003
+The result AUC result for user id 127 using: cosine_similarity with k as 5 and h as 5 is = 0.8043478260869565
+The result AUC result for user id 128 using: cosine_similarity with k as 5 and h as 5 is = 0.8888888888888888
+The result AUC result for user id 129 using: cosine_similarity with k as 5 and h as 5 is = 0.875
+The result AUC result for user id 130 using: cosine_similarity with k as 5 and h as 5 is = 0.7
+No relevant prediction for user id #131
+No relevant prediction for user id #132
+The result AUC result for user id 133 using: cosine_similarity with k as 5 and h as 5 is = 0.04761904761904767
+No relevant prediction for user id #134
+The result AUC result for user id 135 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+The result AUC result for user id 136 using: cosine_similarity with k as 5 and h as 5 is = 0.8333333333333334
+The result AUC result for user id 137 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+No relevant prediction for user id #138
+No relevant prediction for user id #139
+The result AUC result for user id 140 using: cosine_similarity with k as 5 and h as 5 is = 0.9444444444444444
+No relevant prediction for user id #141
+The result AUC result for user id 142 using: cosine_similarity with k as 5 and h as 5 is = 0.07999999999999996
+No relevant prediction for user id #143
+No relevant prediction for user id #144
+The result AUC result for user id 145 using: cosine_similarity with k as 5 and h as 5 is = 0.5
+No relevant prediction for user id #146
+The result AUC result for user id 147 using: cosine_similarity with k as 5 and h as 5 is = 0.9722222222222222
+The result AUC result for user id 148 using: cosine_similarity with k as 5 and h as 5 is = 0.4375
+The result AUC result for user id 149 using: cosine_similarity with k as 5 and h as 5 is = 0.7222222222222222
+No relevant prediction for user id #150
+The result AUC result for user id 151 using: cosine_similarity with k as 5 and h as 5 is = 0.7857142857142857
+The result AUC result for user id 152 using: cosine_similarity with k as 5 and h as 5 is = 0.8
+No relevant prediction for user id #153
+The result AUC result for user id 154 using: cosine_similarity with k as 5 and h as 5 is = 0.9130434782608696
+No relevant prediction for user id #155
+No relevant prediction for user id #156
+No relevant prediction for user id #157
+The result AUC result for user id 158 using: cosine_similarity with k as 5 and h as 5 is = 0.8181818181818181
+The result AUC result for user id 159 using: cosine_similarity with k as 5 and h as 5 is = 0.625
+The result AUC result for user id 160 using: cosine_similarity with k as 5 and h as 5 is = 0.375
+No relevant prediction for user id #161
+No relevant prediction for user id #162
+No relevant prediction for user id #163
+The result AUC result for user id 164 using: cosine_similarity with k as 5 and h as 5 is = 0.13636363636363635
+No relevant prediction for user id #165
+No relevant prediction for user id #166
+No relevant prediction for user id #167
+The result AUC result for user id 168 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+No relevant prediction for user id #169
+No relevant prediction for user id #170
+No relevant prediction for user id #171
+The result AUC result for user id 172 using: cosine_similarity with k as 5 and h as 5 is = 0.8
+The result AUC result for user id 173 using: cosine_similarity with k as 5 and h as 5 is = 0.07407407407407407
+The result AUC result for user id 174 using: cosine_similarity with k as 5 and h as 5 is = 0.8888888888888888
+No relevant prediction for user id #175
+No relevant prediction for user id #176
+No relevant prediction for user id #177
+The result AUC result for user id 178 using: cosine_similarity with k as 5 and h as 5 is = 0.375
+No relevant prediction for user id #179
+No relevant prediction for user id #180
+The result AUC result for user id 181 using: cosine_similarity with k as 5 and h as 5 is = 0.6666666666666667
+The result AUC result for user id 182 using: cosine_similarity with k as 5 and h as 5 is = 0.5384615384615384
+The result AUC result for user id 183 using: cosine_similarity with k as 5 and h as 5 is = 0.8571428571428572
+No relevant prediction for user id #184
+The result AUC result for user id 185 using: cosine_similarity with k as 5 and h as 5 is = 0.35526315789473684
+The result AUC result for user id 186 using: cosine_similarity with k as 5 and h as 5 is = 0.13333333333333333
+No relevant prediction for user id #187
+The result AUC result for user id 188 using: cosine_similarity with k as 5 and h as 5 is = 0.8181818181818181
+The result AUC result for user id 189 using: cosine_similarity with k as 5 and h as 5 is = 0.8846153846153846
+The result AUC result for user id 190 using: cosine_similarity with k as 5 and h as 5 is = 0.10714285714285715
+The result AUC result for user id 191 using: cosine_similarity with k as 5 and h as 5 is = 0.75
+No relevant prediction for user id #192
+The result AUC result for user id 193 using: cosine_similarity with k as 5 and h as 5 is = 0.6
+The result AUC result for user id 194 using: cosine_similarity with k as 5 and h as 5 is = 0.38095238095238093
+No relevant prediction for user id #195
+The result AUC result for user id 196 using: cosine_similarity with k as 5 and h as 5 is = 0.9166666666666667
+No relevant prediction for user id #197
+The result AUC result for user id 198 using: cosine_similarity with k as 5 and h as 5 is = 0.375
+The result AUC result for user id 199 using: cosine_similarity with k as 5 and h as 5 is = 0.9047619047619048
+The result AUC result for user id 200 using: cosine_similarity with k as 5 and h as 5 is = 0.8888888888888888
+The result AUC result for user id 201 using: cosine_similarity with k as 5 and h as 5 is = 0.4166666666666667
+No relevant prediction for user id #202
+The result AUC result for user id 203 using: cosine_similarity with k as 5 and h as 5 is = 0.4
+The result AUC result for user id 204 using: cosine_similarity with k as 5 and h as 5 is = 0.62
+The result AUC result for user id 205 using: cosine_similarity with k as 5 and h as 5 is = 0.9199999999999999
+The result AUC result for user id 206 using: cosine_similarity with k as 5 and h as 5 is = 0.56
+The result AUC result for user id 207 using: cosine_similarity with k as 5 and h as 5 is = 0.7
+No relevant prediction for user id #208
+No relevant prediction for user id #209
+The result AUC result for user id 210 using: cosine_similarity with k as 5 and h as 5 is = 0.375
+No relevant prediction for user id #211
+No relevant prediction for user id #212
+The result AUC result for user id 213 using: cosine_similarity with k as 5 and h as 5 is = 0.55
+The result AUC result for user id 214 using: cosine_similarity with k as 5 and h as 5 is = 0.35
+The result AUC result for user id 215 using: cosine_similarity with k as 5 and h as 5 is = 0.25
+The result AUC result for user id 216 using: cosine_similarity with k as 5 and h as 5 is = 0.8125
+The result AUC result for user id 217 using: cosine_similarity with k as 5 and h as 5 is = 0.09090909090909094
+No relevant prediction for user id #218
+No relevant prediction for user id #219
+The result AUC result for user id 220 using: cosine_similarity with k as 5 and h as 5 is = 0.9464285714285715
+The result AUC result for user id 221 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+The result AUC result for user id 222 using: cosine_similarity with k as 5 and h as 5 is = 0.5833333333333334
+The result AUC result for user id 223 using: cosine_similarity with k as 5 and h as 5 is = 0.49999999999999994
+The result AUC result for user id 224 using: cosine_similarity with k as 5 and h as 5 is = 0.8928571428571428
+The result AUC result for user id 225 using: cosine_similarity with k as 5 and h as 5 is = 0.42647058823529416
+No relevant prediction for user id #226
+No relevant prediction for user id #227
+No relevant prediction for user id #228
+The result AUC result for user id 229 using: cosine_similarity with k as 5 and h as 5 is = 0.9230769230769231
+No relevant prediction for user id #230
+No relevant prediction for user id #231
+No relevant prediction for user id #232
+The result AUC result for user id 233 using: cosine_similarity with k as 5 and h as 5 is = 0.575
+The result AUC result for user id 234 using: cosine_similarity with k as 5 and h as 5 is = 0.6
+The result AUC result for user id 235 using: cosine_similarity with k as 5 and h as 5 is = 0.5568181818181818
+The result AUC result for user id 236 using: cosine_similarity with k as 5 and h as 5 is = 0.75
+No relevant prediction for user id #237
+The result AUC result for user id 238 using: cosine_similarity with k as 5 and h as 5 is = 0.8125
+The result AUC result for user id 239 using: cosine_similarity with k as 5 and h as 5 is = 0.33333333333333337
+No relevant prediction for user id #240
+No relevant prediction for user id #241
+No relevant prediction for user id #242
+The result AUC result for user id 243 using: cosine_similarity with k as 5 and h as 5 is = 0.8571428571428572
+The result AUC result for user id 244 using: cosine_similarity with k as 5 and h as 5 is = 0.5416666666666667
+No relevant prediction for user id #245
+The result AUC result for user id 246 using: cosine_similarity with k as 5 and h as 5 is = 0.5
+No relevant prediction for user id #247
+No relevant prediction for user id #248
+The result AUC result for user id 249 using: cosine_similarity with k as 5 and h as 5 is = 0.6666666666666667
+The result AUC result for user id 250 using: cosine_similarity with k as 5 and h as 5 is = 0.7111111111111111
+No relevant prediction for user id #251
+The result AUC result for user id 252 using: cosine_similarity with k as 5 and h as 5 is = 0.5
+The result AUC result for user id 253 using: cosine_similarity with k as 5 and h as 5 is = 0.8461538461538461
+The result AUC result for user id 254 using: cosine_similarity with k as 5 and h as 5 is = 0.4285714285714286
+The result AUC result for user id 255 using: cosine_similarity with k as 5 and h as 5 is = 0.3214285714285714
+The result AUC result for user id 256 using: cosine_similarity with k as 5 and h as 5 is = 0.6296296296296295
+No relevant prediction for user id #257
+No relevant prediction for user id #258
+No relevant prediction for user id #259
+No relevant prediction for user id #260
+The result AUC result for user id 261 using: cosine_similarity with k as 5 and h as 5 is = 0.40740740740740744
+No relevant prediction for user id #262
+The result AUC result for user id 263 using: cosine_similarity with k as 5 and h as 5 is = 0.36111111111111105
+No relevant prediction for user id #264
+The result AUC result for user id 265 using: cosine_similarity with k as 5 and h as 5 is = 0.7142857142857143
+No relevant prediction for user id #266
+No relevant prediction for user id #267
+The result AUC result for user id 268 using: cosine_similarity with k as 5 and h as 5 is = 0.8333333333333334
+The result AUC result for user id 269 using: cosine_similarity with k as 5 and h as 5 is = 0.16666666666666663
+No relevant prediction for user id #270
+The result AUC result for user id 271 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+No relevant prediction for user id #272
+The result AUC result for user id 273 using: cosine_similarity with k as 5 and h as 5 is = 0.08333333333333337
+No relevant prediction for user id #274
+The result AUC result for user id 275 using: cosine_similarity with k as 5 and h as 5 is = 0.2222222222222222
+The result AUC result for user id 276 using: cosine_similarity with k as 5 and h as 5 is = 0.4
+No relevant prediction for user id #277
+The result AUC result for user id 278 using: cosine_similarity with k as 5 and h as 5 is = 0.02083333333333337
+The result AUC result for user id 279 using: cosine_similarity with k as 5 and h as 5 is = 0.19999999999999996
+The result AUC result for user id 280 using: cosine_similarity with k as 5 and h as 5 is = 0.16666666666666669
+The result AUC result for user id 281 using: cosine_similarity with k as 5 and h as 5 is = 0.23076923076923073
+The result AUC result for user id 282 using: cosine_similarity with k as 5 and h as 5 is = 0.6470588235294117
+No relevant prediction for user id #283
+The result AUC result for user id 284 using: cosine_similarity with k as 5 and h as 5 is = 0.5517241379310344
+No relevant prediction for user id #285
+The result AUC result for user id 286 using: cosine_similarity with k as 5 and h as 5 is = 0.6111111111111112
+No relevant prediction for user id #287
+No relevant prediction for user id #288
+No relevant prediction for user id #289
+The result AUC result for user id 290 using: cosine_similarity with k as 5 and h as 5 is = 0.3833333333333333
+The result AUC result for user id 291 using: cosine_similarity with k as 5 and h as 5 is = 0.25
+The result AUC result for user id 292 using: cosine_similarity with k as 5 and h as 5 is = 0.125
+The result AUC result for user id 293 using: cosine_similarity with k as 5 and h as 5 is = 0.19999999999999996
+No relevant prediction for user id #294
+The result AUC result for user id 295 using: cosine_similarity with k as 5 and h as 5 is = 0.8125
+The result AUC result for user id 296 using: cosine_similarity with k as 5 and h as 5 is = 0.85
+The result AUC result for user id 297 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+No relevant prediction for user id #298
+The result AUC result for user id 299 using: cosine_similarity with k as 5 and h as 5 is = 0.625
+No relevant prediction for user id #300
+The result AUC result for user id 301 using: cosine_similarity with k as 5 and h as 5 is = 0.08333333333333331
+No relevant prediction for user id #302
+The result AUC result for user id 303 using: cosine_similarity with k as 5 and h as 5 is = 0.88
+The result AUC result for user id 304 using: cosine_similarity with k as 5 and h as 5 is = 0.8888888888888888
+The result AUC result for user id 305 using: cosine_similarity with k as 5 and h as 5 is = 0.5
+No relevant prediction for user id #306
+The result AUC result for user id 307 using: cosine_similarity with k as 5 and h as 5 is = 0.4285714285714286
+The result AUC result for user id 308 using: cosine_similarity with k as 5 and h as 5 is = 0.5
+No relevant prediction for user id #309
+No relevant prediction for user id #310
+The result AUC result for user id 311 using: cosine_similarity with k as 5 and h as 5 is = 0.625
+The result AUC result for user id 312 using: cosine_similarity with k as 5 and h as 5 is = 0.35185185185185186
+The result AUC result for user id 313 using: cosine_similarity with k as 5 and h as 5 is = 0.32999999999999996
+The result AUC result for user id 314 using: cosine_similarity with k as 5 and h as 5 is = 0.625
+The result AUC result for user id 315 using: cosine_similarity with k as 5 and h as 5 is = 0.1428571428571429
+The result AUC result for user id 316 using: cosine_similarity with k as 5 and h as 5 is = 0.9473684210526315
+The result AUC result for user id 317 using: cosine_similarity with k as 5 and h as 5 is = 0.8076923076923077
+No relevant prediction for user id #318
+The result AUC result for user id 319 using: cosine_similarity with k as 5 and h as 5 is = 0.8428571428571429
+The result AUC result for user id 320 using: cosine_similarity with k as 5 and h as 5 is = 0.8
+The result AUC result for user id 321 using: cosine_similarity with k as 5 and h as 5 is = 0.5333333333333333
+The result AUC result for user id 322 using: cosine_similarity with k as 5 and h as 5 is = 0.2941176470588235
+No relevant prediction for user id #323
+No relevant prediction for user id #324
+The result AUC result for user id 325 using: cosine_similarity with k as 5 and h as 5 is = 0.4285714285714286
+The result AUC result for user id 326 using: cosine_similarity with k as 5 and h as 5 is = 0.375
+The result AUC result for user id 327 using: cosine_similarity with k as 5 and h as 5 is = 0.9464285714285715
+The result AUC result for user id 328 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+The result AUC result for user id 329 using: cosine_similarity with k as 5 and h as 5 is = 0.8181818181818181
+The result AUC result for user id 330 using: cosine_similarity with k as 5 and h as 5 is = 0.4285714285714286
+The result AUC result for user id 331 using: cosine_similarity with k as 5 and h as 5 is = 0.5797101449275361
+The result AUC result for user id 332 using: cosine_similarity with k as 5 and h as 5 is = 0.16666666666666663
+No relevant prediction for user id #333
+The result AUC result for user id 334 using: cosine_similarity with k as 5 and h as 5 is = 0.296875
+No relevant prediction for user id #335
+No relevant prediction for user id #336
+No relevant prediction for user id #337
+The result AUC result for user id 338 using: cosine_similarity with k as 5 and h as 5 is = 0.3888888888888889
+The result AUC result for user id 339 using: cosine_similarity with k as 5 and h as 5 is = 0.5416666666666666
+No relevant prediction for user id #340
+No relevant prediction for user id #341
+The result AUC result for user id 342 using: cosine_similarity with k as 5 and h as 5 is = 0.8333333333333334
+The result AUC result for user id 343 using: cosine_similarity with k as 5 and h as 5 is = 0.6666666666666666
+The result AUC result for user id 344 using: cosine_similarity with k as 5 and h as 5 is = 0.35714285714285715
+The result AUC result for user id 345 using: cosine_similarity with k as 5 and h as 5 is = 0.9
+The result AUC result for user id 346 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+The result AUC result for user id 347 using: cosine_similarity with k as 5 and h as 5 is = 0.5714285714285714
+No relevant prediction for user id #348
+No relevant prediction for user id #349
+The result AUC result for user id 350 using: cosine_similarity with k as 5 and h as 5 is = 0.19999999999999996
+The result AUC result for user id 351 using: cosine_similarity with k as 5 and h as 5 is = 0.8333333333333334
+No relevant prediction for user id #352
+No relevant prediction for user id #353
+The result AUC result for user id 354 using: cosine_similarity with k as 5 and h as 5 is = 0.6363636363636364
+No relevant prediction for user id #355
+No relevant prediction for user id #356
+The result AUC result for user id 357 using: cosine_similarity with k as 5 and h as 5 is = 0.5555555555555556
+No relevant prediction for user id #358
+No relevant prediction for user id #359
+The result AUC result for user id 360 using: cosine_similarity with k as 5 and h as 5 is = 0.19047619047619047
+The result AUC result for user id 361 using: cosine_similarity with k as 5 and h as 5 is = 0.4545454545454546
+The result AUC result for user id 362 using: cosine_similarity with k as 5 and h as 5 is = 0.9
+The result AUC result for user id 363 using: cosine_similarity with k as 5 and h as 5 is = 0.8
+No relevant prediction for user id #364
+The result AUC result for user id 365 using: cosine_similarity with k as 5 and h as 5 is = 0.6875
+No relevant prediction for user id #366
+No relevant prediction for user id #367
+The result AUC result for user id 368 using: cosine_similarity with k as 5 and h as 5 is = 0.9
+No relevant prediction for user id #369
+No relevant prediction for user id #370
+The result AUC result for user id 371 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+No relevant prediction for user id #372
+The result AUC result for user id 373 using: cosine_similarity with k as 5 and h as 5 is = 0.3076923076923077
+No relevant prediction for user id #374
+No relevant prediction for user id #375
+No relevant prediction for user id #376
+No relevant prediction for user id #377
+The result AUC result for user id 378 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+The result AUC result for user id 379 using: cosine_similarity with k as 5 and h as 5 is = 0.7142857142857143
+No relevant prediction for user id #380
+The result AUC result for user id 381 using: cosine_similarity with k as 5 and h as 5 is = 0.5249999999999999
+No relevant prediction for user id #382
+No relevant prediction for user id #383
+No relevant prediction for user id #384
+The result AUC result for user id 385 using: cosine_similarity with k as 5 and h as 5 is = 0.42857142857142855
+No relevant prediction for user id #386
+The result AUC result for user id 387 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+No relevant prediction for user id #388
+The result AUC result for user id 389 using: cosine_similarity with k as 5 and h as 5 is = 0.125
+No relevant prediction for user id #390
+No relevant prediction for user id #391
+No relevant prediction for user id #392
+The result AUC result for user id 393 using: cosine_similarity with k as 5 and h as 5 is = 0.5416666666666667
+No relevant prediction for user id #394
+No relevant prediction for user id #395
+No relevant prediction for user id #396
+No relevant prediction for user id #397
+The result AUC result for user id 398 using: cosine_similarity with k as 5 and h as 5 is = 0.4285714285714286
+The result AUC result for user id 399 using: cosine_similarity with k as 5 and h as 5 is = 0.8736559139784946
+The result AUC result for user id 400 using: cosine_similarity with k as 5 and h as 5 is = 0.8055555555555556
+The result AUC result for user id 401 using: cosine_similarity with k as 5 and h as 5 is = 0.61
+The result AUC result for user id 402 using: cosine_similarity with k as 5 and h as 5 is = 0.47500000000000003
+No relevant prediction for user id #403
+No relevant prediction for user id #404
+The result AUC result for user id 405 using: cosine_similarity with k as 5 and h as 5 is = 0.6666666666666667
+No relevant prediction for user id #406
+No relevant prediction for user id #407
+No relevant prediction for user id #408
+The result AUC result for user id 409 using: cosine_similarity with k as 5 and h as 5 is = 0.75
+No relevant prediction for user id #410
+The result AUC result for user id 411 using: cosine_similarity with k as 5 and h as 5 is = 0.8928571428571428
+The result AUC result for user id 412 using: cosine_similarity with k as 5 and h as 5 is = 0.7857142857142857
+No relevant prediction for user id #413
+No relevant prediction for user id #414
+No relevant prediction for user id #415
+No relevant prediction for user id #416
+The result AUC result for user id 417 using: cosine_similarity with k as 5 and h as 5 is = 0.33333333333333337
+No relevant prediction for user id #418
+No relevant prediction for user id #419
+No relevant prediction for user id #420
+No relevant prediction for user id #421
+The result AUC result for user id 422 using: cosine_similarity with k as 5 and h as 5 is = 0.9318181818181818
+No relevant prediction for user id #423
+No relevant prediction for user id #424
+No relevant prediction for user id #425
+No relevant prediction for user id #426
+No relevant prediction for user id #427
+No relevant prediction for user id #428
+The result AUC result for user id 429 using: cosine_similarity with k as 5 and h as 5 is = 0.0
+No relevant prediction for user id #430
+No relevant prediction for user id #431
+No relevant prediction for user id #432
+No relevant prediction for user id #433
+No relevant prediction for user id #434
+No relevant prediction for user id #435
+The result AUC result for user id 436 using: cosine_similarity with k as 5 and h as 5 is = 0.8888888888888888
+The result AUC result for user id 437 using: cosine_similarity with k as 5 and h as 5 is = 0.33333333333333337
+No relevant prediction for user id #438
+No relevant prediction for user id #439
+No relevant prediction for user id #440
+No relevant prediction for user id #441
+No relevant prediction for user id #442
+No relevant prediction for user id #443
+No relevant prediction for user id #444
+No relevant prediction for user id #445
+No relevant prediction for user id #446
+No relevant prediction for user id #447
+No relevant prediction for user id #448
+No relevant prediction for user id #449
+No relevant prediction for user id #450
+The result AUC result for user id 451 using: cosine_similarity with k as 5 and h as 5 is = 1.0
+No relevant prediction for user id #452
+No relevant prediction for user id #453
+No relevant prediction for user id #454
+No relevant prediction for user id #455
+No relevant prediction for user id #456
+No relevant prediction for user id #457
+No relevant prediction for user id #458
+No relevant prediction for user id #459
+No relevant prediction for user id #460
+No relevant prediction for user id #461
+No relevant prediction for user id #462
+No relevant prediction for user id #463
+No relevant prediction for user id #464
+No relevant prediction for user id #465
+No relevant prediction for user id #466
+No relevant prediction for user id #467
+No relevant prediction for user id #468
+No relevant prediction for user id #469
+No relevant prediction for user id #470
+No relevant prediction for user id #471
+No relevant prediction for user id #472
+No relevant prediction for user id #473
+No relevant prediction for user id #474
+No relevant prediction for user id #475
+No relevant prediction for user id #476
+No relevant prediction for user id #477
+No relevant prediction for user id #478
+No relevant prediction for user id #479
+No relevant prediction for user id #480
+No relevant prediction for user id #481
+No relevant prediction for user id #482
+No relevant prediction for user id #483
+No relevant prediction for user id #484
+No relevant prediction for user id #485
+No relevant prediction for user id #486
+No relevant prediction for user id #487
+No relevant prediction for user id #488
+No relevant prediction for user id #489
+No relevant prediction for user id #490
+No relevant prediction for user id #491
+No relevant prediction for user id #492
+No relevant prediction for user id #493
+No relevant prediction for user id #494
+No relevant prediction for user id #495
+No relevant prediction for user id #496
+No relevant prediction for user id #497
+No relevant prediction for user id #498
+No relevant prediction for user id #499
+No relevant prediction for user id #500
+No relevant prediction for user id #501
+No relevant prediction for user id #502
+No relevant prediction for user id #503
+No relevant prediction for user id #504
+No relevant prediction for user id #505
+No relevant prediction for user id #506
+No relevant prediction for user id #507
+No relevant prediction for user id #508
+No relevant prediction for user id #509
+No relevant prediction for user id #510
+No relevant prediction for user id #511
+No relevant prediction for user id #512
+No relevant prediction for user id #513
+No relevant prediction for user id #514
+No relevant prediction for user id #515
+No relevant prediction for user id #516
+No relevant prediction for user id #517
+No relevant prediction for user id #518
+No relevant prediction for user id #519
+No relevant prediction for user id #520
+No relevant prediction for user id #521
+No relevant prediction for user id #522
+No relevant prediction for user id #523
+No relevant prediction for user id #524
+No relevant prediction for user id #525
+No relevant prediction for user id #526
+No relevant prediction for user id #527
+No relevant prediction for user id #528
+No relevant prediction for user id #529
+No relevant prediction for user id #530
+No relevant prediction for user id #531
+No relevant prediction for user id #532
+No relevant prediction for user id #533
+No relevant prediction for user id #534
+No relevant prediction for user id #535
+No relevant prediction for user id #536
+No relevant prediction for user id #537
+No relevant prediction for user id #538
+No relevant prediction for user id #539
+No relevant prediction for user id #540
+No relevant prediction for user id #541
+No relevant prediction for user id #542
+No relevant prediction for user id #543
+No relevant prediction for user id #544
+No relevant prediction for user id #545
+No relevant prediction for user id #546
+No relevant prediction for user id #547
+No relevant prediction for user id #548
+No relevant prediction for user id #549
+No relevant prediction for user id #550
+No relevant prediction for user id #551
+No relevant prediction for user id #552
+No relevant prediction for user id #553
+No relevant prediction for user id #554
+No relevant prediction for user id #555
+No relevant prediction for user id #556
+No relevant prediction for user id #557
+No relevant prediction for user id #558
+No relevant prediction for user id #559
+No relevant prediction for user id #560
+No relevant prediction for user id #561
+No relevant prediction for user id #562
+No relevant prediction for user id #563
+No relevant prediction for user id #564
+No relevant prediction for user id #565
+No relevant prediction for user id #566
+No relevant prediction for user id #567
+No relevant prediction for user id #568
+No relevant prediction for user id #569
+No relevant prediction for user id #570
+No relevant prediction for user id #571
+No relevant prediction for user id #572
+No relevant prediction for user id #573
+No relevant prediction for user id #574
+No relevant prediction for user id #575
+No relevant prediction for user id #576
+No relevant prediction for user id #577
+No relevant prediction for user id #578
+No relevant prediction for user id #579
+No relevant prediction for user id #580
+No relevant prediction for user id #581
+No relevant prediction for user id #582
+No relevant prediction for user id #583
+No relevant prediction for user id #584
+No relevant prediction for user id #585
+No relevant prediction for user id #586
+No relevant prediction for user id #587
+No relevant prediction for user id #588
+No relevant prediction for user id #589
+No relevant prediction for user id #590
+No relevant prediction for user id #591
+No relevant prediction for user id #592
+No relevant prediction for user id #593
+No relevant prediction for user id #594
+No relevant prediction for user id #595
+No relevant prediction for user id #596
+No relevant prediction for user id #597
+No relevant prediction for user id #598
+No relevant prediction for user id #599
+No relevant prediction for user id #600
+No relevant prediction for user id #601
+No relevant prediction for user id #602
+No relevant prediction for user id #603
+No relevant prediction for user id #604
+No relevant prediction for user id #605
+No relevant prediction for user id #606
+No relevant prediction for user id #607
+No relevant prediction for user id #608
+No relevant prediction for user id #609
+No relevant prediction for user id #610
+No relevant prediction for user id #611
+No relevant prediction for user id #612
+No relevant prediction for user id #613
+No relevant prediction for user id #614
+No relevant prediction for user id #615
+No relevant prediction for user id #616
+No relevant prediction for user id #617
+No relevant prediction for user id #618
+No relevant prediction for user id #619
+No relevant prediction for user id #620
+No relevant prediction for user id #621
+No relevant prediction for user id #622
+No relevant prediction for user id #623
+No relevant prediction for user id #624
+No relevant prediction for user id #625
+No relevant prediction for user id #626
+No relevant prediction for user id #627
+No relevant prediction for user id #628
+No relevant prediction for user id #629
+No relevant prediction for user id #630
+No relevant prediction for user id #631
+No relevant prediction for user id #632
+No relevant prediction for user id #633
+No relevant prediction for user id #634
+No relevant prediction for user id #635
+No relevant prediction for user id #636
+No relevant prediction for user id #637
+No relevant prediction for user id #638
+No relevant prediction for user id #639
+No relevant prediction for user id #640
+No relevant prediction for user id #641
+No relevant prediction for user id #642
+No relevant prediction for user id #643
+No relevant prediction for user id #644
+No relevant prediction for user id #645
+No relevant prediction for user id #646
+No relevant prediction for user id #647
+No relevant prediction for user id #648
+No relevant prediction for user id #649
+No relevant prediction for user id #650
+No relevant prediction for user id #651
+No relevant prediction for user id #652
+No relevant prediction for user id #653
+No relevant prediction for user id #654
+No relevant prediction for user id #655
+No relevant prediction for user id #656
+No relevant prediction for user id #657
+No relevant prediction for user id #658
+No relevant prediction for user id #659
+No relevant prediction for user id #660
+No relevant prediction for user id #661
+No relevant prediction for user id #662
+No relevant prediction for user id #663
+No relevant prediction for user id #664
+No relevant prediction for user id #665
+No relevant prediction for user id #666
+No relevant prediction for user id #667
+No relevant prediction for user id #668
+No relevant prediction for user id #669
+No relevant prediction for user id #670
+No relevant prediction for user id #671
+No relevant prediction for user id #672
+No relevant prediction for user id #673
+No relevant prediction for user id #674
+No relevant prediction for user id #675
+No relevant prediction for user id #676
+No relevant prediction for user id #677
+No relevant prediction for user id #678
+No relevant prediction for user id #679
+No relevant prediction for user id #680
+No relevant prediction for user id #681
+No relevant prediction for user id #682
+No relevant prediction for user id #683
+No relevant prediction for user id #684
+No relevant prediction for user id #685
+No relevant prediction for user id #686
+No relevant prediction for user id #687
+No relevant prediction for user id #688
+No relevant prediction for user id #689
+No relevant prediction for user id #690
+No relevant prediction for user id #691
+No relevant prediction for user id #692
+No relevant prediction for user id #693
+No relevant prediction for user id #694
+No relevant prediction for user id #695
+No relevant prediction for user id #696
+No relevant prediction for user id #697
+No relevant prediction for user id #698
+No relevant prediction for user id #699
+No relevant prediction for user id #700
+No relevant prediction for user id #701
+No relevant prediction for user id #702
+No relevant prediction for user id #703
+No relevant prediction for user id #704
+No relevant prediction for user id #705
+No relevant prediction for user id #706
+No relevant prediction for user id #707
+No relevant prediction for user id #708
+No relevant prediction for user id #709
+No relevant prediction for user id #710
+No relevant prediction for user id #711
+No relevant prediction for user id #712
+No relevant prediction for user id #713
+No relevant prediction for user id #714
+No relevant prediction for user id #715
+No relevant prediction for user id #716
+No relevant prediction for user id #717
+No relevant prediction for user id #718
+No relevant prediction for user id #719
+No relevant prediction for user id #720
+No relevant prediction for user id #721
+No relevant prediction for user id #722
+No relevant prediction for user id #723
+No relevant prediction for user id #724
+No relevant prediction for user id #725
+No relevant prediction for user id #726
+No relevant prediction for user id #727
+No relevant prediction for user id #728
+No relevant prediction for user id #729
+No relevant prediction for user id #730
+No relevant prediction for user id #731
+No relevant prediction for user id #732
+No relevant prediction for user id #733
+No relevant prediction for user id #734
+No relevant prediction for user id #735
+No relevant prediction for user id #736
+No relevant prediction for user id #737
+No relevant prediction for user id #738
+No relevant prediction for user id #739
+No relevant prediction for user id #740
+No relevant prediction for user id #741
+No relevant prediction for user id #742
+No relevant prediction for user id #743
+No relevant prediction for user id #744
+No relevant prediction for user id #745
+No relevant prediction for user id #746
+No relevant prediction for user id #747
+No relevant prediction for user id #748
+No relevant prediction for user id #749
+No relevant prediction for user id #750
+No relevant prediction for user id #751
+No relevant prediction for user id #752
+No relevant prediction for user id #753
+No relevant prediction for user id #754
+No relevant prediction for user id #755
+No relevant prediction for user id #756
+No relevant prediction for user id #757
+No relevant prediction for user id #758
+No relevant prediction for user id #759
+No relevant prediction for user id #760
+No relevant prediction for user id #761
+No relevant prediction for user id #762
+No relevant prediction for user id #763
+No relevant prediction for user id #764
+No relevant prediction for user id #765
+No relevant prediction for user id #766
+No relevant prediction for user id #767
+No relevant prediction for user id #768
+No relevant prediction for user id #769
+No relevant prediction for user id #770
+No relevant prediction for user id #771
+No relevant prediction for user id #772
+No relevant prediction for user id #773
+No relevant prediction for user id #774
+No relevant prediction for user id #775
+No relevant prediction for user id #776
+No relevant prediction for user id #777
+No relevant prediction for user id #778
+No relevant prediction for user id #779
+No relevant prediction for user id #780
+No relevant prediction for user id #781
+No relevant prediction for user id #782
+No relevant prediction for user id #783
+No relevant prediction for user id #784
+No relevant prediction for user id #785
+No relevant prediction for user id #786
+No relevant prediction for user id #787
+No relevant prediction for user id #788
+No relevant prediction for user id #789
+No relevant prediction for user id #790
+No relevant prediction for user id #791
+No relevant prediction for user id #792
+No relevant prediction for user id #793
+No relevant prediction for user id #794
+No relevant prediction for user id #795
+No relevant prediction for user id #796
+No relevant prediction for user id #797
+No relevant prediction for user id #798
+No relevant prediction for user id #799
+No relevant prediction for user id #800
+No relevant prediction for user id #801
+No relevant prediction for user id #802
+No relevant prediction for user id #803
+No relevant prediction for user id #804
+No relevant prediction for user id #805
+No relevant prediction for user id #806
+No relevant prediction for user id #807
+No relevant prediction for user id #808
+No relevant prediction for user id #809
+No relevant prediction for user id #810
+No relevant prediction for user id #811
+No relevant prediction for user id #812
+No relevant prediction for user id #813
+No relevant prediction for user id #814
+No relevant prediction for user id #815
+No relevant prediction for user id #816
+No relevant prediction for user id #817
+No relevant prediction for user id #818
+No relevant prediction for user id #819
+No relevant prediction for user id #820
+No relevant prediction for user id #821
+No relevant prediction for user id #822
+No relevant prediction for user id #823
+No relevant prediction for user id #824
+No relevant prediction for user id #825
+No relevant prediction for user id #826
+No relevant prediction for user id #827
+No relevant prediction for user id #828
+No relevant prediction for user id #829
+No relevant prediction for user id #830
+No relevant prediction for user id #831
+No relevant prediction for user id #832
+No relevant prediction for user id #833
+No relevant prediction for user id #834
+No relevant prediction for user id #835
+No relevant prediction for user id #836
+No relevant prediction for user id #837
+No relevant prediction for user id #838
+No relevant prediction for user id #839
+No relevant prediction for user id #840
+No relevant prediction for user id #841
+No relevant prediction for user id #842
+No relevant prediction for user id #843
+No relevant prediction for user id #844
+No relevant prediction for user id #845
+No relevant prediction for user id #846
+No relevant prediction for user id #847
+No relevant prediction for user id #848
+No relevant prediction for user id #849
+No relevant prediction for user id #850
+No relevant prediction for user id #851
+No relevant prediction for user id #852
+No relevant prediction for user id #853
+No relevant prediction for user id #854
+No relevant prediction for user id #855
+No relevant prediction for user id #856
+No relevant prediction for user id #857
+No relevant prediction for user id #858
+No relevant prediction for user id #859
+No relevant prediction for user id #860
+No relevant prediction for user id #861
+No relevant prediction for user id #862
+No relevant prediction for user id #863
+No relevant prediction for user id #864
+No relevant prediction for user id #865
+No relevant prediction for user id #866
+No relevant prediction for user id #867
+No relevant prediction for user id #868
+No relevant prediction for user id #869
+No relevant prediction for user id #870
+No relevant prediction for user id #871
+No relevant prediction for user id #872
+No relevant prediction for user id #873
+No relevant prediction for user id #874
+No relevant prediction for user id #875
+No relevant prediction for user id #876
+No relevant prediction for user id #877
+No relevant prediction for user id #878
+No relevant prediction for user id #879
+No relevant prediction for user id #880
+No relevant prediction for user id #881
+No relevant prediction for user id #882
+No relevant prediction for user id #883
+No relevant prediction for user id #884
+No relevant prediction for user id #885
+No relevant prediction for user id #886
+No relevant prediction for user id #887
+No relevant prediction for user id #888
+No relevant prediction for user id #889
+No relevant prediction for user id #890
+No relevant prediction for user id #891
+No relevant prediction for user id #892
+No relevant prediction for user id #893
+No relevant prediction for user id #894
+No relevant prediction for user id #895
+No relevant prediction for user id #896
+No relevant prediction for user id #897
+No relevant prediction for user id #898
+No relevant prediction for user id #899
+No relevant prediction for user id #900
+No relevant prediction for user id #901
+No relevant prediction for user id #902
+No relevant prediction for user id #903
+No relevant prediction for user id #904
+No relevant prediction for user id #905
+No relevant prediction for user id #906
+No relevant prediction for user id #907
+No relevant prediction for user id #908
+No relevant prediction for user id #909
+No relevant prediction for user id #910
+No relevant prediction for user id #911
+No relevant prediction for user id #912
+No relevant prediction for user id #913
+No relevant prediction for user id #914
+No relevant prediction for user id #915
+No relevant prediction for user id #916
+No relevant prediction for user id #917
+No relevant prediction for user id #918
+No relevant prediction for user id #919
+No relevant prediction for user id #920
+No relevant prediction for user id #921
+No relevant prediction for user id #922
+No relevant prediction for user id #923
+No relevant prediction for user id #924
+No relevant prediction for user id #925
+No relevant prediction for user id #926
+No relevant prediction for user id #927
+No relevant prediction for user id #928
+No relevant prediction for user id #929
+No relevant prediction for user id #930
+No relevant prediction for user id #931
+No relevant prediction for user id #932
+No relevant prediction for user id #933
+No relevant prediction for user id #934
+No relevant prediction for user id #935
+No relevant prediction for user id #936
+No relevant prediction for user id #937
+No relevant prediction for user id #938
+No relevant prediction for user id #939
+No relevant prediction for user id #940
+No relevant prediction for user id #941
+No relevant prediction for user id #942
+No relevant prediction for user id #943
+
+
+#7.b#
+
+The average AUC score is:0.541313666547423
+
+
+
+
+
